@@ -17,7 +17,7 @@
     </nav>
 
   <div id="bas">
-    <p><a href="homepage.php">© 2021 Copyright: Portfolio Thomas A.</a></p>
+    <p><?php include_once 'pied_de_page.php'; ?>© 2021 Copyright: Portfolio Thomas A.</p>
   </div>
 
 </footer>

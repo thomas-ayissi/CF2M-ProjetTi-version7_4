@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Liens</title>
+    <title>Accueil Portfolio Thomas AYISSI</title>
     <link href="../decor/style.css" rel="stylesheet">
 </head>
 
@@ -16,15 +16,15 @@
 
 
     <!-- inclusion de l'entête du site -->
-    <?php include_once('../includes/header.php'); ?>
+    <?php include_once 'header.php'; ?>
     <br>
     <br>
     <!-- inclusion de du titre du body du site -->
-    <h1><?php include_once('../includes/titre_body.php'); ?></h1>
+    <h1><?php include_once 'titre_body.php'; ?></h1>
 
     <!-- inclusion du bas de page du site -->
-    <?php include_once('../includes/pied_de_page.php'); ?>
+    <?php include_once 'pied_de_page.php'; ?>
 
-    <img src="img/quoi.jpg" alt="" />
+<img src="img/quoi.jpg" alt="" />
 </body>
 </html>
